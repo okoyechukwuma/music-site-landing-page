@@ -367,4 +367,14 @@ button{
     .text-container h1{
         font-size: 2.5rem;
     }
+    .header{
+        width: 12rem;
+        padding-bottom: 1rem;
+    }
+}
+
+@media(max-width:360px){
+    .text-container h1{
+        font-size: 2rem;
+    }
 }
